@@ -6,3 +6,7 @@ unknown_country_shops.xlsx
 candlehand_final_report.ipynb
 figures/
 .ipynb_checkpoints/
+
+# Temporary lock files from Word / LibreOffice
+~$*
+.~lock.*

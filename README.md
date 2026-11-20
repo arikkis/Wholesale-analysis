@@ -20,10 +20,9 @@
 
 **1. Re-ordering has fallen.** 30% of new shops place a second order within 243 days (the period in which 80% of
 all re-orders happen). The rate dropped from 26–35% for shops that started in 2022–2023 to 18–22% in 2024–2025.
-At the same time, fewer new shops acquired: 295 in 2022, about 110–150 a year since.
+At the same time, fewer new shops were won: 295 in 2022, about 110–150 a year since.
 
-
-**2. A small group carries the business.** 12% of shops (4+ orders) bring about half of all invoice value,
+**2. A small loyal group carries the business.** 12% of shops (4+ orders) bring about half of all invoice value,
 while two-thirds of shops order only once. This loyal group shrank sharply after 2022: shops with 4+ orders a
 year fell from 35 to 5–10, and their loss explains about two-thirds of the fall in yearly sales.
 
@@ -47,7 +46,7 @@ years, while most platform shops stop after their first order.
 - **Follow up on a fixed schedule.** Contact every new shop **2–3 months** after its first order (when re-orders
   peak), again at about **6 months**, and a last time before **8 months**. Italian shops return more slowly, so
   allow them a longer period before treating them as lost.
-- **Test.** Shops whose first order covered several product categories re-ordered more often (34%
+- **Test, don't assume.** Shops whose first order covered several product categories re-ordered more often (34%
   vs 23%), and shipping costs may affect re-ordering. Both are worth testing (e.g. a mixed starter assortment;
   comparing shops just below and above the free-shipping threshold) before changing the sales policy.
 - **Watch the promising markets and clarify Italy.** Lithuania and Belgium show above-average re-ordering, while
