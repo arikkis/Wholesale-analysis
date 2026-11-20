@@ -69,7 +69,7 @@ years, while most platform shops stop after their first order.
 
 | File | What it is |
 |---|---|
-| [`Candlehand_wholesale_report.docx`](Candlehand_wholesale_report.pdf) | **The report** (10-minute read): findings, figures, recommendations, limitations |
+| [`Candlehand_wholesale_report.pdf`](Candlehand_wholesale_report.pdf) | **The report** (10-minute read): findings, figures, recommendations, limitations |
 | [`candlehand_final_report_synthetic.ipynb`](candlehand_final_report_synthetic.ipynb) | **The full analysis**, from raw data to every figure and number in the report |
 | `data_synthetic.csv`, `Total_synthetic.xlsx` | Synthetic sales and ERP exports (input data) |
 | `shop_country_lookup_synthetic.xlsx` | Documented country lookup for shops without a country |
