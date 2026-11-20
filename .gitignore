@@ -1,0 +1,8 @@
+# Confidential: real source data and the notebook run on it (its outputs show real shop names). Never commit.
+data.csv
+Total.xlsx
+shop_country_lookup.xlsx
+unknown_country_shops.xlsx
+candlehand_final_report.ipynb
+figures/
+.ipynb_checkpoints/
